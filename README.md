@@ -1,1 +1,1 @@
-# learning-js-sorting-names-without-articles
+# learning-js-sort-without-articles
